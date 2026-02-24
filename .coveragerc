@@ -1,0 +1,5 @@
+[run]
+branch = True
+source = app
+omit =
+    app/__main__.py

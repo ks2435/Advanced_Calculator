@@ -1,0 +1,25 @@
+# venv
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# editors
+.vscode/
+.idea/
+
+# dotenv
+.env
+
+# persisted calculator history
+calc_history.csv
+*.csv
